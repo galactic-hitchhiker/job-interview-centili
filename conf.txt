@@ -1,0 +1,4 @@
+username:ftpuser
+password:pass
+server:192.168.0.16
+files:test1.txt;test2.txt;test3.txt
